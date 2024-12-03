@@ -1,3 +1,5 @@
+Calculator isa basic need for every one for counting -
+
 1. Performing Basic Mathematical Operations: A calculator's primary purpose is to perform mathematical operations like addition, subtraction, multiplication, and division quickly and accurately, saving time compared to manual calculations.
 
 2. Educational Tool: Making a calculator (either by hand or through programming) can be an educational experience. It helps learners understand mathematical concepts and practice arithmetic skills. For programmers, creating a calculator teaches basic concepts like user input handling, decision-making (if/else), and working with functions.
