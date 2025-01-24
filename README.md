@@ -1,4 +1,4 @@
-# Calculator is a basic need for every one for counting - #
+# Calculator is a basic need for every one for counting : #
 
 1. Performing Basic Mathematical Operations: A calculator's primary purpose is to perform mathematical operations like addition, subtraction, multiplication, and division quickly and accurately, saving time compared to manual calculations.
 
